@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="margin_main">10dp</dimen>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="tvTypeMargin">20dp</dimen>
+    <dimen name="itemtextsize">20sp</dimen>
+    <dimen name="tvdetailsmargintop">30dp</dimen>
+</resources>

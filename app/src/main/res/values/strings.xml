@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WorkoutApp</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="chooseMainWorkout">Odaberi program:</string>
+    <string name="chooseWorkoutVariation">Odaberi varijaciju</string>
+    <string name="addWorkout">Dodaj program</string>
+    <string name="my_workout_title_start">Početak</string>
+    <string name="my_workout_title_kraj">Kraj</string>
+    <string name="my_workout_title_end">Kraj</string>
+    <string name="my_workout_title_numberOfExercise">Broj vježbi</string>
+    <string name="back">Nazad</string>
+    <string name="finish">Završi</string>
+    <string name="backToMain">Nazad na glavnu listu</string>
+    <string name="addPlace">Dodaj mjesto</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="confirm">Potvrdi</string>
+</resources>
